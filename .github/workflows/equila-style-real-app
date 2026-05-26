@@ -1,0 +1,6 @@
+.github/workflows/android.yml
+settings.gradle
+build.gradle
+app/src/main/AndroidManifest.xml
+app/src/main/java/com/equilastyle/app/MainActivity.java
+app/src/main/res/values/styles.xml
